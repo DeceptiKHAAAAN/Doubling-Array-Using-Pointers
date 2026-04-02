@@ -1,3 +1,9 @@
+/* 
+Luke Ronquillo
+ITSE-2331 Advanced C++ Programming
+Initializes an array and creates a new array that doubles its size and copies its contents
+*/
+
 #include <iostream>
 using namespace std;
 
